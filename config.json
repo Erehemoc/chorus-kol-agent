@@ -1,0 +1,15 @@
+{"voices":[
+ {"source":"telegram","handle":"lookonchainchannel","weight":1.0},
+ {"source":"telegram","handle":"spotonchain","weight":1.0},
+ {"source":"telegram","handle":"ai_9684xtpa","weight":1.0},
+ {"source":"telegram","handle":"cryptoquant_official","weight":1.2},
+ {"source":"telegram","handle":"glassnode","weight":1.2},
+ {"source":"telegram","handle":"unfolded","weight":0.8},
+ {"source":"telegram","handle":"coinbureau","weight":0.8},
+ {"source":"telegram","handle":"WatcherGuru","weight":0.8},
+ {"source":"telegram","handle":"wublockchainenglish","weight":1.0},
+ {"source":"telegram","handle":"cointelegraph","weight":0.8},
+ {"source":"telegram","handle":"the_block_crypto","weight":1.0},
+ {"source":"telegram","handle":"BWEnews","weight":0.9},
+ {"source":"telegram","handle":"CryptoRankNews","weight":0.8}
+]}
